@@ -1,7 +1,7 @@
-// checkout form
-import React from "react";
-import data from "./data.json";
-import Products from "./components/Products";
+//animation-modal
+import React from 'react';
+import data from "./data.json"
+import Products from './components/Products';
 import Filter from "./components/Filter";
 import Cart from "./components/Cart";
 
@@ -86,7 +86,7 @@ class App extends React.Component {
     return (
       <div className="grid-container">
         <header>
-          <a href="/">React Shopping Cart</a>
+          <a href="/">Covid-19 PPEs</a>
         </header>
         <main>
           <div className="content">
